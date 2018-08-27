@@ -1,0 +1,98 @@
+.group {
+  margin-left: 10px !important;
+  flex: 1 !important;
+}
+.query-box{
+  min-width: 100% !important;
+  width: 100% !important;
+}
+.password-title {
+  margin-top: 10px !important;
+}
+.result-card{
+  background-color: #c9c9c946 !important;
+}
+.portal{
+  margin: 0 !important;
+}
+.result-card-table{
+  max-width: 100% !important;
+  max-height: 100% !important;
+  overflow: auto !important;
+}
+.table-head{
+  background: white !important;
+}
+.error{
+  color: rgb(255, 0, 0) !important;
+}
+.error .code{
+  color: rgb(2, 2, 204) !important;
+}
+.result-table{
+  overflow-x: auto !important;
+  overflow-y: hidden !important;
+}
+.info {
+  color: rgb(2, 94, 2) !important;
+}
+.grid-cont {
+  max-width: 100% !important;
+  margin: 0 !important;
+}
+.newP-input{
+  margin-bottom: 20px !important;
+}
+.stations{
+  display: flex !important;
+  width: 100% !important;
+  margin-top: 10px !important;
+}
+.stations .selector{
+  flex: 1 !important;
+  margin-left: 5px !important;
+  margin-right: 5px !important;
+}
+.datetime {
+  display: flex !important;
+  width: 100% !important;
+  position: relative !important;
+}
+.datetime div{
+  flex: 1 !important;
+}
+.datetime div .date, .time{
+  width: 99% !important;
+}
+.see-train-btn{
+  margin-top: 10px !important;
+  width: 100% !important;
+}
+.searching{
+  width: 100% !important;
+  display: flex !important;
+  justify-content: center !important;
+  margin-top: 15px !important;
+  align-items: center !important;
+}
+.train-opt{
+  cursor: pointer !important;
+  transition: all linear 0.3s;
+}
+.train-opt:hover{
+  background: rgba(200, 200, 200, 0.3);
+}
+.selected-title{
+  display: flex !important;
+  width: 100% !important;
+  margin-top: 10px;
+}
+.selected-title h4{
+  flex: 1 !important;
+  margin: 0 !important;
+}
+.check-station .selector{
+  width: 100% !important;
+  margin-left: 5px !important;
+  margin-right: 5px !important;
+}
